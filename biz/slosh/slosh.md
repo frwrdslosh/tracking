@@ -4,6 +4,6 @@
 # Time Table
 | date  | start time  | end time | duration  |  note |
 |---|---|---|---|---|
-| 08/01  | 10:00  | 11:30  | 1.5  | sample tasks  |
+| 12/31/21  | 130  |  230  | 1  | populate DAO Directory  |
 |   |   |   |   |   |
 |   |   |   |   |   
